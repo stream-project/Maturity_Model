@@ -7,6 +7,7 @@ This repository contains a module from the **STREAM** (*Semantic Representation,
 ## File Structure
 
 - `MM_FAIRData.xlsx`: Excel file containing the STREAM module for the maturity model.
+- `MMResults.py`: Python script to extract data from the Excel file, plot the results, and generate a TTL file.
 - `README.md`: This file providing an overview of the repository.
 
 ## FAIR Principles
@@ -27,6 +28,10 @@ The maturity model aligns with the **FAIR** principles, emphasizing:
 3. Input relevant data and information as required.
 4. The model provides a structured approach to evaluate the maturity level of the data in each **FAIR** aspect.
 
+### Extracting Data and Generating TTL
+
+- Run `MMResults.py` to extract data from the Excel file, plot the results, and generate a TTL file.
+
 ## Contribution
 
 Contributions to improve or expand this **STREAM** module are encouraged! To contribute:
@@ -35,9 +40,7 @@ Contributions to improve or expand this **STREAM** module are encouraged! To con
 - Make your changes.
 - Submit a pull request.
 
-
 ## Acknowledgments
 
 Special thanks to the **STREAM** project at **KIT** for providing this module.
-
 
