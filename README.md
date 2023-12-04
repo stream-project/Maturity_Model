@@ -6,7 +6,7 @@ This repository contains a module from the **STREAM** (*Semantic Representation,
 
 ## File Structure
 
-- `Maturity_Model.xlsx`: Excel file containing the STREAM module for the maturity model.
+- `MM_FAIRData.xlsx`: Excel file containing the STREAM module for the maturity model.
 - `README.md`: This file providing an overview of the repository.
 
 ## FAIR Principles
