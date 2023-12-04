@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a module from the **STREAM** (*Strategic Tools for Rational Design of Advanced Energy Materials*) project by **KIT** (*Karlsruhe Institute of Technology*). It includes an Excel file aiming to create a maturity model for experimental materials data following the FAIR principles. This model assists in assessing the maturity level of data based on its Findability, Accessibility, Interoperability, and Reusability (FAIR).
+This repository contains a module from the **STREAM** (*Semantic Representation, networking and ‎Curating quality-assured material data‎*) project by **KIT** (*Karlsruhe Institute of Technology*). It includes an Excel file aiming to create a maturity model for experimental materials data following the FAIR principles. This model assists in assessing the maturity level of data based on its Findability, Accessibility, Interoperability, and Reusability (FAIR).
 
 ## File Structure
 
