@@ -1,0 +1,64 @@
+<FAIR>FINDABLE
+	<Overall>100.0
+.
+
+<FAIR>ACCESSIBLE
+	<Overall>94.44444444444446
+.
+
+<FAIR>INTEROPERABLE
+	<Overall>80.35714285714286
+.
+
+<FAIR>REUSABLE
+	<Overall>60.416666666666664
+.
+
+<FAIR>Overall
+	<Overall>83.80456349206351
+.
+
+<FAIR>nan
+	<Overall>nan
+.
+
+<FAIR>nan
+	<Overall>nan
+.
+
+<FAIR>Level
+	<Overall>nan
+.
+
+<FAIR>Level 5
+	<Overall>nan
+.
+
+<FAIR>Level 4
+	<Overall>nan
+.
+
+<FAIR>Level 3
+	<Overall>nan
+.
+
+<FAIR>Level 2
+	<Overall>nan
+.
+
+<FAIR>Level 1
+	<Overall>nan
+.
+
+<FAIR>Level 0
+	<Overall>nan
+.
+
+<Level>L
+	<HasComment>F
+.
+
+<Level>L
+	<HasComment>F
+.
+
