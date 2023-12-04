@@ -35,9 +35,6 @@ Contributions to improve or expand this **STREAM** module are encouraged! To con
 - Make your changes.
 - Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
